@@ -12,7 +12,7 @@ npm install
 2. Добавьте .env-файл в корень проекта и укажите в нем URL адреса для вашего NextJS сервера и JSON-сервера, в формате:
 
 ```bash
-NEXT_API_SERVER_URL=http://localhost:8000
+NEXT_API_SERVER_URL=http://localhost:8080
 NEXT_API_CLIENT_URL=http://localhost:3000/api
 ```
 3. Запустите проект в режиме разработки
