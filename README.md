@@ -9,7 +9,7 @@ Backend выполнен с помощью JSON-сервера [json-server](htt
 npm install
 ```
 
-2. В .env файле укажите URL адреса для вашего NextJS сервера и JSON-сервера, пример:
+2. Добавьте .env-файл в корень проекта и укажите в нем URL адреса для вашего NextJS сервера и JSON-сервера, в формате:
 
 ```bash
 NEXT_API_SERVER_URL=http://localhost:8000
